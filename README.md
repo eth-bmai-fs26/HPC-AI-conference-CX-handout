@@ -24,6 +24,8 @@ Neural network basics, training and validation. PyTorch fundamentals, tensors, s
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+**Hint:** for some help with PyTorch, you can refer to [this example](https://docs.pytorch.org/tutorials/beginner/blitz/neural_networks_tutorial.html) and ask the teaching assistants!
+
 ## Session 3: Convolutional Neural Networks
 
 Convolutional neural networks, feature extraction, simple CNN example. Autoencoders, encoding and decoding concepts.
